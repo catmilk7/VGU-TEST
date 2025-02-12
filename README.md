@@ -13,6 +13,7 @@ Roadmap for improvement:
 - CSS Fine-tuning
 - Preview for attached file(s)
 - Reset button to clear all inputs
+
 <<- Please contact us if you find any bugs & issues related to using this form; we will make sure to fix it if necessary ->>
 
 In order to use this project, download all files to your computer, and make sure to install all required softwares.
